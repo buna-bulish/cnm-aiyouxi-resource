@@ -1,0 +1,2 @@
+# cnm-aiyouxi-resource
+HTML page archive and documentation
